@@ -1,1 +1,1 @@
-# Klientu-uzklausu-klasifikavimas
+# Klientų užklausų klasifikavimas
